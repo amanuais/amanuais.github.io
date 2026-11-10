@@ -1,14 +1,11 @@
 ---
 layout: post
-title: "Hello, world"
-excerpt: "First post on my new blog."
+title: "Dezerter"
+excerpt: "First post."
 date: 2026-11-10 12:00:00
 mathjax: true
 ---
 
-This is my first post. Some math: $$ e^{i\pi} + 1 = 0 $$
+My first post. Inspired by Andrei Karpathy.
 
-```python
-def hello():
-    print("hello")
-```
+Want to share with everyone my journey and shi. 
