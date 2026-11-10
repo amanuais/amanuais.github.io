@@ -1,0 +1,12 @@
+title: "amanuais blog"
+description: "talk to me Uais"
+url: "https://amanuais.github.io"
+baseurl: ""
+
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+
+plugins:
+  - jekyll-feed
+
+exclude: [Gemfile, Gemfile.lock, README.md, vendor, .bundle]
